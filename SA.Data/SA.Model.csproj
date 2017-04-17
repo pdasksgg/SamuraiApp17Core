@@ -1,0 +1,9 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp1.1</TargetFramework>
+    <AssemblyName>SA.Model</AssemblyName>
+    <RootNamespace>SA.Model</RootNamespace>
+  </PropertyGroup>
+
+</Project>
